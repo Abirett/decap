@@ -1,6 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/mamun-sec) ![status](https://img.shields.io/badge/status-up-brightgreen)<br>
-<code><a href="https://www.linkedin.com/in/mamun-infosec/">Linkedin</a></code> <code><a href="mailto:ceo@intarna.com">Email</a></code> <code><a href="https://intarna.com/blog/">Blog</a></code> <code><a href="https://medium.com/@alfalahum">Medium</a></code>
-
 <h1>:white_square_button: Decap</h1>
 <h4>Scan PCAP Files for Security Issues</h4>
 Analyzing PCAP file in forensic investigation or, incident response takes a long time. In such cases, Decap tool will help you to initially scan the PCAP file.
